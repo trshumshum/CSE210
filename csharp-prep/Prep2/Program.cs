@@ -4,7 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("This is the Prep2 Assignment");
+        Console.WriteLine("This is the Prep2 Assignment by John S");
 
          //get grade percentage from user
         Console.Write("Please give me your grade percenage: ");
